@@ -1,3 +1,4 @@
 .project
 .pydevproject
 gameData.csv
+__pycache__/
