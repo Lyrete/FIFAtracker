@@ -13,6 +13,9 @@ db = dataHandler();
 
 app = gui();
 
+app.setTitle("FIFA tracker v0.1")
+
+app.setSize(200,100)
 app.addLabel("title", "FIFA tracker v0.1")
 app.setLabelBg("title", "red")
 
